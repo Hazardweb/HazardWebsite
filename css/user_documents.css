@@ -1,0 +1,79 @@
+.subContent{
+	
+	width: 940px;
+	margin: 0 auto;
+	
+	font-family: 'thai_sans_lite';
+
+}
+
+h4{
+
+	font-family: 'thai_sans_lite';
+	padding-left: 30px;
+}
+
+
+
+.process>li{
+	margin-top: 5px;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	 /*border-bottom: 1px solid #96BBD4;*/
+	border-top: 1px solid #E5E5E5;
+}
+
+
+
+h1{
+	font-family: 'thai_sans_lite';
+	display: inline;
+}
+
+#add_icon{
+	display: inline;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+#No_permit_head,#No_permit_value{
+	width: 100px;
+}
+#date1_value,#date1_heed{
+
+	width: 100px;
+}
+
+.table thead>tr>th{
+	text-align: center;
+}
+
+.table tbody>tr>td{
+	text-align: center;
+}
+
+
+.sublist>li{
+	padding-top: 10px;
+	margin-bottom: 10px;
+	border-top: 1px solid #E5E5E5;
+	
+}
+.sublist>li>a{
+	font-size: 20px;
+	padding-top: 	0px;
+
+}
+
+#registerProcess_list{
+	display: none;
+	
+}
+
+#register_request_list{
+	display: none;
+}
