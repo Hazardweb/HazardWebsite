@@ -78,7 +78,7 @@ ul
 
 /*customer*/
 #register_request_list{
-	display: none;
+	visibility: hidden;
 }
 
 
@@ -95,6 +95,8 @@ ul
 	padding: 17px;
 	margin-right: 7px;
 }
+
+
 
 
 #registerProcess_list{
